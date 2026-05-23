@@ -39,15 +39,6 @@ I believe technology creates impact — and I’m learning & building every day 
 ---
 
 ## 🧪 My Recent Projects  
-### 🌍 Wanderlust AI  
-AI-powered travel assistant with flights, hotels, weather, chat, and trip planner  
-**Tech:** Flask, Python, SQL, APIs, AI Integration  
-
-### 🧠 Image Classifier Web App  
-Built with **CNN + Streamlit**  
-Upload image → Predicts label  
-🔗 Demo: https://imageclassifier-urwoc6evrx6wqpmzrz5tej.streamlit.app/
-
 ### 🗂 SQL + Python (Pandas) IMDB Case Study  
 Analyzing movies, actors, revenues, trends, and patterns  
 
